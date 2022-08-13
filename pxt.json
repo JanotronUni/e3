@@ -1,0 +1,16 @@
+{
+    "name": "NFC",
+    "version": "0.0.2",
+    "description": "NFC-Blöcke",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "main.cpp",
+        "_locales/en/NFC-strings.json"
+    ],
+    "public": true
+}
